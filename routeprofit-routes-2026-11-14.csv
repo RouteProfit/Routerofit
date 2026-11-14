@@ -1,0 +1,220 @@
+﻿Route,Date,Status,Vehicle,Customer,Start,Destination,Driver,Distance (km),Revenue (ZAR),Direct costs (ZAR),Net profit (ZAR),Margin (%),Cost per km (ZAR),Revenue per km (ZAR)
+Garden Route Long-haul,2026-11-22,planned,CA 127 886,Helderberg Wine Co.,Paarden Eiland Depot,Mossel Bay,Riaan van Wyk,384,7680.00,0.00,,,0.00,20.00
+West Coast Pharmacy Run,2026-11-19,planned,CZ 901 774,Peninsula Pharmacy Group,Paarden Eiland Depot,Milnerton · Atlantis,Anele Mbeki,112,2296.00,0.00,,,0.00,20.50
+Atlantic Seaboard Run,2026-11-16,planned,CZ 901 774,Table Bay Fresh Market,Paarden Eiland Depot,Sea Point · Camps Bay,Sipho Ndlovu,58,1392.00,0.00,,,0.00,24.00
+Garden Route Long-haul,2026-11-14,completed,CA 127 886,Helderberg Wine Co.,Paarden Eiland Depot,Mossel Bay,Fatima Adams,384,7698.26,5236.96,2461.30,31.97,13.64,20.05
+West Coast Pharmacy Run,2026-11-13,completed,CZ 901 774,Peninsula Pharmacy Group,Paarden Eiland Depot,Milnerton · Atlantis,Fatima Adams,112,2278.61,1084.37,1194.24,52.41,9.68,20.34
+City Bowl Parcel Sweep,2026-11-12,completed,CJ 554 120,Karoo Coffee Roasters,Paarden Eiland Depot,Gardens · Woodstock,Lutho Jacobs,34,840.24,436.73,403.51,48.02,12.84,24.71
+Northern Industrial Drops,2026-11-11,completed,CA 482 319,Atlantic Retail Group,Paarden Eiland Depot,Epping · Parow,Lutho Jacobs,38,639.38,713.90,-74.52,-11.66,18.79,16.83
+Southern Suburbs Circuit,2026-11-10,completed,CA 482 319,Atlantic Retail Group,Paarden Eiland Depot,Claremont · Constantia,Lutho Jacobs,72,1517.28,772.21,745.07,49.11,10.73,21.07
+City Bowl Parcel Sweep,2026-11-10,completed,CA 482 319,Karoo Coffee Roasters,Paarden Eiland Depot,Gardens · Woodstock,Riaan van Wyk,34,812.78,477.16,335.62,41.29,14.03,23.91
+Fynbos Wholesale Run,2026-11-09,completed,CA 127 886,Fynbos & Co.,Paarden Eiland Depot,Somerset West · Elgin,Riaan van Wyk,124,2493.05,1713.39,779.66,31.27,13.82,20.11
+Durbanville Interior Run,2026-11-08,completed,CA 482 319,Green Point Interiors,Paarden Eiland Depot,Bellville · Durbanville,Riaan van Wyk,66,1422.87,706.52,716.35,50.35,10.70,21.56
+Winelands Cellar Run,2026-11-07,completed,CA 127 886,Helderberg Wine Co.,Paarden Eiland Depot,Stellenbosch · Paarl,Riaan van Wyk,146,2842.42,1954.14,888.28,31.25,13.38,19.47
+Atlantic Seaboard Run,2026-11-07,completed,CA 127 886,Table Bay Fresh Market,Paarden Eiland Depot,Sea Point · Camps Bay,Anele Mbeki,58,1427.65,956.57,471.08,33.00,16.49,24.61
+Cape Flats Distribution,2026-11-06,completed,CA 482 319,Table Bay Fresh Market,Paarden Eiland Depot,Athlone · Mitchells Plain,Anele Mbeki,86,1665.49,895.60,769.89,46.23,10.41,19.37
+Helderberg Deliveries,2026-11-05,completed,CA 127 886,Helderberg Wine Co.,Paarden Eiland Depot,Somerset West · Strand,Anele Mbeki,98,2073.57,1440.36,633.21,30.54,14.70,21.16
+Atlantic Seaboard Run,2026-11-04,completed,CZ 901 774,Table Bay Fresh Market,Paarden Eiland Depot,Sea Point · Camps Bay,Anele Mbeki,58,1427.22,692.60,734.62,51.47,11.94,24.61
+Airport Express,2026-11-04,completed,CZ 901 774,Karoo Coffee Roasters,Cape Town CBD,Cape Town International,Sipho Ndlovu,44,1183.85,666.21,517.64,43.73,15.14,26.91
+Cold Chain Airport Run,2026-11-03,completed,CZ 901 774,Peninsula Pharmacy Group,Paarden Eiland Depot,Airport Industrial,Sipho Ndlovu,54,1610.30,747.63,862.67,53.57,13.84,29.82
+Airport Express,2026-11-02,completed,CJ 554 120,Karoo Coffee Roasters,Cape Town CBD,Cape Town International,Sipho Ndlovu,44,1184.68,546.06,638.62,53.91,12.41,26.92
+CBD Retail Loop,2026-11-01,completed,CJ 554 120,Atlantic Retail Group,Paarden Eiland Depot,Cape Town CBD,Sipho Ndlovu,46,981.64,522.92,458.72,46.73,11.37,21.34
+CBD Retail Loop,2026-11-01,completed,CA 482 319,Atlantic Retail Group,Paarden Eiland Depot,Cape Town CBD,Fatima Adams,46,1031.19,583.15,448.04,43.45,12.68,22.42
+Garden Route Long-haul,2026-10-30,completed,CA 127 886,Helderberg Wine Co.,Paarden Eiland Depot,Mossel Bay,Sipho Ndlovu,384,7885.10,5064.04,2821.06,35.78,13.19,20.53
+Northern Industrial Drops,2026-10-27,completed,CA 482 319,Atlantic Retail Group,Paarden Eiland Depot,Epping · Parow,Fatima Adams,38,654.41,707.58,-53.17,-8.12,18.62,17.22
+Durbanville Interior Run,2026-10-24,completed,CA 482 319,Green Point Interiors,Paarden Eiland Depot,Bellville · Durbanville,Lutho Jacobs,66,1458.31,698.92,759.39,52.07,10.59,22.10
+City Bowl Parcel Sweep,2026-10-23,completed,CA 482 319,Karoo Coffee Roasters,Paarden Eiland Depot,Gardens · Woodstock,Lutho Jacobs,34,836.39,483.53,352.86,42.19,14.22,24.60
+Helderberg Deliveries,2026-10-21,completed,CA 127 886,Helderberg Wine Co.,Paarden Eiland Depot,Somerset West · Strand,Riaan van Wyk,98,2038.71,1408.68,630.03,30.90,14.37,20.80
+Atlantic Seaboard Run,2026-10-20,completed,CA 127 886,Table Bay Fresh Market,Paarden Eiland Depot,Sea Point · Camps Bay,Riaan van Wyk,58,1389.29,935.16,454.13,32.69,16.12,23.95
+Airport Express,2026-10-18,completed,CJ 554 120,Karoo Coffee Roasters,Cape Town CBD,Cape Town International,Anele Mbeki,44,1216.03,545.41,670.62,55.15,12.40,27.64
+Airport Express,2026-10-17,completed,CZ 901 774,Karoo Coffee Roasters,Cape Town CBD,Cape Town International,Anele Mbeki,44,1184.92,660.52,524.40,44.26,15.01,26.93
+West Coast Pharmacy Run,2026-10-15,completed,CZ 901 774,Peninsula Pharmacy Group,Paarden Eiland Depot,Milnerton · Atlantis,Sipho Ndlovu,112,2295.67,1067.73,1227.94,53.49,9.53,20.50
+CBD Retail Loop,2026-10-14,completed,CA 482 319,Atlantic Retail Group,Paarden Eiland Depot,Cape Town CBD,Sipho Ndlovu,46,1011.96,554.75,457.21,45.18,12.06,22.00
+Southern Suburbs Circuit,2026-10-12,completed,CA 482 319,Atlantic Retail Group,Paarden Eiland Depot,Claremont · Constantia,Fatima Adams,72,1481.66,763.36,718.30,48.48,10.60,20.58
+City Bowl Parcel Sweep,2026-10-11,completed,CJ 554 120,Karoo Coffee Roasters,Paarden Eiland Depot,Gardens · Woodstock,Fatima Adams,34,793.06,415.91,377.15,47.56,12.23,23.33
+Winelands Cellar Run,2026-10-09,completed,CA 127 886,Helderberg Wine Co.,Paarden Eiland Depot,Stellenbosch · Paarl,Lutho Jacobs,146,2846.23,2037.08,809.15,28.43,13.95,19.49
+Fynbos Wholesale Run,2026-10-08,completed,CA 127 886,Fynbos & Co.,Paarden Eiland Depot,Somerset West · Elgin,Lutho Jacobs,124,2472.92,1751.46,721.46,29.17,14.12,19.94
+Atlantic Seaboard Run,2026-10-06,completed,CZ 901 774,Table Bay Fresh Market,Paarden Eiland Depot,Sea Point · Camps Bay,Riaan van Wyk,58,1428.16,662.19,765.97,53.63,11.42,24.62
+Cape Flats Distribution,2026-10-05,completed,CA 482 319,Table Bay Fresh Market,Paarden Eiland Depot,Athlone · Mitchells Plain,Riaan van Wyk,86,1647.84,867.08,780.76,47.38,10.08,19.16
+CBD Retail Loop,2026-10-03,completed,CJ 554 120,Atlantic Retail Group,Paarden Eiland Depot,Cape Town CBD,Anele Mbeki,46,997.68,541.13,456.55,45.76,11.76,21.69
+Cold Chain Airport Run,2026-10-02,completed,CZ 901 774,Peninsula Pharmacy Group,Paarden Eiland Depot,Airport Industrial,Anele Mbeki,54,1538.58,728.83,809.75,52.63,13.50,28.49
+Northern Industrial Drops,2026-09-29,completed,CA 482 319,Atlantic Retail Group,Paarden Eiland Depot,Epping · Parow,Sipho Ndlovu,38,664.28,715.58,-51.30,-7.72,18.83,17.48
+Durbanville Interior Run,2026-09-26,completed,CA 482 319,Green Point Interiors,Paarden Eiland Depot,Bellville · Durbanville,Fatima Adams,66,1485.70,727.38,758.32,51.04,11.02,22.51
+City Bowl Parcel Sweep,2026-09-26,completed,CA 482 319,Karoo Coffee Roasters,Paarden Eiland Depot,Gardens · Woodstock,Fatima Adams,34,797.12,478.96,318.16,39.91,14.09,23.44
+Helderberg Deliveries,2026-09-23,completed,CA 127 886,Helderberg Wine Co.,Paarden Eiland Depot,Somerset West · Strand,Lutho Jacobs,98,2029.56,1416.04,613.52,30.23,14.45,20.71
+Atlantic Seaboard Run,2026-09-23,completed,CA 127 886,Table Bay Fresh Market,Paarden Eiland Depot,Sea Point · Camps Bay,Lutho Jacobs,58,1433.08,930.11,502.97,35.10,16.04,24.71
+Airport Express,2026-09-20,completed,CJ 554 120,Karoo Coffee Roasters,Cape Town CBD,Cape Town International,Riaan van Wyk,44,1197.97,559.22,638.75,53.32,12.71,27.23
+Airport Express,2026-09-20,completed,CZ 901 774,Karoo Coffee Roasters,Cape Town CBD,Cape Town International,Riaan van Wyk,44,1168.57,678.31,490.26,41.95,15.42,26.56
+West Coast Pharmacy Run,2026-09-17,completed,CZ 901 774,Peninsula Pharmacy Group,Paarden Eiland Depot,Milnerton · Atlantis,Anele Mbeki,112,2346.75,1106.32,1240.43,52.86,9.88,20.95
+CBD Retail Loop,2026-09-17,completed,CA 482 319,Atlantic Retail Group,Paarden Eiland Depot,Cape Town CBD,Anele Mbeki,46,1017.53,569.93,447.60,43.99,12.39,22.12
+Southern Suburbs Circuit,2026-09-14,completed,CA 482 319,Atlantic Retail Group,Paarden Eiland Depot,Claremont · Constantia,Sipho Ndlovu,72,1500.32,754.92,745.40,49.68,10.48,20.84
+City Bowl Parcel Sweep,2026-09-14,completed,CJ 554 120,Karoo Coffee Roasters,Paarden Eiland Depot,Gardens · Woodstock,Sipho Ndlovu,34,830.56,421.12,409.44,49.30,12.39,24.43
+Winelands Cellar Run,2026-09-11,completed,CA 127 886,Helderberg Wine Co.,Paarden Eiland Depot,Stellenbosch · Paarl,Fatima Adams,146,2923.89,1989.13,934.76,31.97,13.62,20.03
+Fynbos Wholesale Run,2026-09-11,completed,CA 127 886,Fynbos & Co.,Paarden Eiland Depot,Somerset West · Elgin,Fatima Adams,124,2590.19,1741.62,848.57,32.76,14.05,20.89
+Atlantic Seaboard Run,2026-09-08,completed,CZ 901 774,Table Bay Fresh Market,Paarden Eiland Depot,Sea Point · Camps Bay,Lutho Jacobs,58,1364.74,695.56,669.18,49.03,11.99,23.53
+Cape Flats Distribution,2026-09-08,completed,CA 482 319,Table Bay Fresh Market,Paarden Eiland Depot,Athlone · Mitchells Plain,Lutho Jacobs,86,1605.86,869.28,736.58,45.87,10.11,18.67
+CBD Retail Loop,2026-09-05,completed,CJ 554 120,Atlantic Retail Group,Paarden Eiland Depot,Cape Town CBD,Riaan van Wyk,46,1017.03,540.30,476.73,46.87,11.75,22.11
+Cold Chain Airport Run,2026-09-05,completed,CZ 901 774,Peninsula Pharmacy Group,Paarden Eiland Depot,Airport Industrial,Riaan van Wyk,54,1544.55,718.00,826.55,53.51,13.30,28.60
+Garden Route Long-haul,2026-09-02,completed,CA 127 886,Helderberg Wine Co.,Paarden Eiland Depot,Mossel Bay,Anele Mbeki,384,7645.07,5330.17,2314.90,30.28,13.88,19.91
+Northern Industrial Drops,2026-08-31,completed,CA 482 319,Atlantic Retail Group,Paarden Eiland Depot,Epping · Parow,Anele Mbeki,38,654.91,712.12,-57.21,-8.74,18.74,17.23
+Durbanville Interior Run,2026-08-28,completed,CA 482 319,Green Point Interiors,Paarden Eiland Depot,Bellville · Durbanville,Sipho Ndlovu,66,1438.05,712.29,725.76,50.47,10.79,21.79
+City Bowl Parcel Sweep,2026-08-27,completed,CA 482 319,Karoo Coffee Roasters,Paarden Eiland Depot,Gardens · Woodstock,Sipho Ndlovu,34,798.25,484.05,314.20,39.36,14.24,23.48
+Helderberg Deliveries,2026-08-25,completed,CA 127 886,Helderberg Wine Co.,Paarden Eiland Depot,Somerset West · Strand,Fatima Adams,98,2024.07,1445.01,579.06,28.61,14.74,20.65
+Atlantic Seaboard Run,2026-08-24,completed,CA 127 886,Table Bay Fresh Market,Paarden Eiland Depot,Sea Point · Camps Bay,Fatima Adams,58,1358.38,916.91,441.47,32.50,15.81,23.42
+Airport Express,2026-08-22,completed,CJ 554 120,Karoo Coffee Roasters,Cape Town CBD,Cape Town International,Lutho Jacobs,44,1202.83,540.09,662.74,55.10,12.27,27.34
+Airport Express,2026-08-21,completed,CZ 901 774,Karoo Coffee Roasters,Cape Town CBD,Cape Town International,Lutho Jacobs,44,1220.33,666.79,553.54,45.36,15.15,27.73
+West Coast Pharmacy Run,2026-08-19,completed,CZ 901 774,Peninsula Pharmacy Group,Paarden Eiland Depot,Milnerton · Atlantis,Riaan van Wyk,112,2305.25,1070.74,1234.51,53.55,9.56,20.58
+CBD Retail Loop,2026-08-18,completed,CA 482 319,Atlantic Retail Group,Paarden Eiland Depot,Cape Town CBD,Riaan van Wyk,46,1020.00,555.90,464.10,45.50,12.08,22.17
+Southern Suburbs Circuit,2026-08-16,completed,CA 482 319,Atlantic Retail Group,Paarden Eiland Depot,Claremont · Constantia,Anele Mbeki,72,1508.08,754.60,753.48,49.96,10.48,20.95
+City Bowl Parcel Sweep,2026-08-15,completed,CJ 554 120,Karoo Coffee Roasters,Paarden Eiland Depot,Gardens · Woodstock,Anele Mbeki,34,809.41,411.98,397.43,49.10,12.12,23.81
+Winelands Cellar Run,2026-08-13,completed,CA 127 886,Helderberg Wine Co.,Paarden Eiland Depot,Stellenbosch · Paarl,Sipho Ndlovu,146,2988.76,1973.63,1015.13,33.96,13.52,20.47
+Fynbos Wholesale Run,2026-08-12,completed,CA 127 886,Fynbos & Co.,Paarden Eiland Depot,Somerset West · Elgin,Sipho Ndlovu,124,2529.70,1685.42,844.28,33.37,13.59,20.40
+Atlantic Seaboard Run,2026-08-10,completed,CZ 901 774,Table Bay Fresh Market,Paarden Eiland Depot,Sea Point · Camps Bay,Fatima Adams,58,1375.35,647.71,727.64,52.91,11.17,23.71
+Cape Flats Distribution,2026-08-09,completed,CA 482 319,Table Bay Fresh Market,Paarden Eiland Depot,Athlone · Mitchells Plain,Fatima Adams,86,1646.02,872.36,773.66,47.00,10.14,19.14
+CBD Retail Loop,2026-08-07,completed,CJ 554 120,Atlantic Retail Group,Paarden Eiland Depot,Cape Town CBD,Lutho Jacobs,46,991.15,534.15,457.00,46.11,11.61,21.55
+Cold Chain Airport Run,2026-08-06,completed,CZ 901 774,Peninsula Pharmacy Group,Paarden Eiland Depot,Airport Industrial,Lutho Jacobs,54,1561.13,726.75,834.38,53.45,13.46,28.91
+Garden Route Long-haul,2026-08-03,completed,CA 127 886,Helderberg Wine Co.,Paarden Eiland Depot,Mossel Bay,Riaan van Wyk,384,7884.07,5097.03,2787.04,35.35,13.27,20.53
+Durbanville Interior Run,2026-07-30,completed,CA 482 319,Green Point Interiors,Paarden Eiland Depot,Bellville · Durbanville,Anele Mbeki,66,1475.45,728.76,746.69,50.61,11.04,22.36
+City Bowl Parcel Sweep,2026-07-29,completed,CA 482 319,Karoo Coffee Roasters,Paarden Eiland Depot,Gardens · Woodstock,Anele Mbeki,34,828.81,468.26,360.55,43.50,13.77,24.38
+Helderberg Deliveries,2026-07-27,completed,CA 127 886,Helderberg Wine Co.,Paarden Eiland Depot,Somerset West · Strand,Sipho Ndlovu,98,1999.91,1416.44,583.47,29.17,14.45,20.41
+Atlantic Seaboard Run,2026-07-26,completed,CA 127 886,Table Bay Fresh Market,Paarden Eiland Depot,Sea Point · Camps Bay,Sipho Ndlovu,58,1423.69,962.90,460.79,32.37,16.60,24.55
+Airport Express,2026-07-24,completed,CJ 554 120,Karoo Coffee Roasters,Cape Town CBD,Cape Town International,Fatima Adams,44,1194.44,547.01,647.43,54.20,12.43,27.15
+Airport Express,2026-07-23,completed,CZ 901 774,Karoo Coffee Roasters,Cape Town CBD,Cape Town International,Fatima Adams,44,1197.64,671.38,526.26,43.94,15.26,27.22
+West Coast Pharmacy Run,2026-07-21,completed,CZ 901 774,Peninsula Pharmacy Group,Paarden Eiland Depot,Milnerton · Atlantis,Lutho Jacobs,112,2290.90,1095.97,1194.93,52.16,9.79,20.45
+CBD Retail Loop,2026-07-20,completed,CA 482 319,Atlantic Retail Group,Paarden Eiland Depot,Cape Town CBD,Lutho Jacobs,46,999.26,580.07,419.19,41.95,12.61,21.72
+Southern Suburbs Circuit,2026-07-18,completed,CA 482 319,Atlantic Retail Group,Paarden Eiland Depot,Claremont · Constantia,Riaan van Wyk,72,1522.08,760.88,761.20,50.01,10.57,21.14
+City Bowl Parcel Sweep,2026-07-17,completed,CJ 554 120,Karoo Coffee Roasters,Paarden Eiland Depot,Gardens · Woodstock,Riaan van Wyk,34,834.22,430.60,403.62,48.38,12.66,24.54
+Winelands Cellar Run,2026-07-15,completed,CA 127 886,Helderberg Wine Co.,Paarden Eiland Depot,Stellenbosch · Paarl,Anele Mbeki,146,2933.40,2011.81,921.59,31.42,13.78,20.09
+Fynbos Wholesale Run,2026-07-14,completed,CA 127 886,Fynbos & Co.,Paarden Eiland Depot,Somerset West · Elgin,Anele Mbeki,124,2581.20,1792.15,789.05,30.57,14.45,20.82
+Atlantic Seaboard Run,2026-07-12,completed,CZ 901 774,Table Bay Fresh Market,Paarden Eiland Depot,Sea Point · Camps Bay,Sipho Ndlovu,58,1411.13,665.88,745.25,52.81,11.48,24.33
+Cape Flats Distribution,2026-07-11,completed,CA 482 319,Table Bay Fresh Market,Paarden Eiland Depot,Athlone · Mitchells Plain,Sipho Ndlovu,86,1604.54,857.63,746.91,46.55,9.97,18.66
+CBD Retail Loop,2026-07-09,completed,CJ 554 120,Atlantic Retail Group,Paarden Eiland Depot,Cape Town CBD,Fatima Adams,46,989.58,546.46,443.12,44.78,11.88,21.51
+Cold Chain Airport Run,2026-07-08,completed,CZ 901 774,Peninsula Pharmacy Group,Paarden Eiland Depot,Airport Industrial,Fatima Adams,54,1553.59,731.85,821.74,52.89,13.55,28.77
+Garden Route Long-haul,2026-07-05,completed,CA 127 886,Helderberg Wine Co.,Paarden Eiland Depot,Mossel Bay,Lutho Jacobs,384,7649.31,5274.41,2374.90,31.05,13.74,19.92
+Northern Industrial Drops,2026-07-02,completed,CA 482 319,Atlantic Retail Group,Paarden Eiland Depot,Epping · Parow,Riaan van Wyk,38,660.13,725.09,-64.96,-9.84,19.08,17.37
+Helderberg Deliveries,2026-06-29,completed,CA 127 886,Helderberg Wine Co.,Paarden Eiland Depot,Somerset West · Strand,Anele Mbeki,98,2097.26,1448.25,649.01,30.95,14.78,21.40
+Atlantic Seaboard Run,2026-06-29,completed,CA 127 886,Table Bay Fresh Market,Paarden Eiland Depot,Sea Point · Camps Bay,Anele Mbeki,58,1390.12,908.51,481.61,34.65,15.66,23.97
+Airport Express,2026-06-26,completed,CJ 554 120,Karoo Coffee Roasters,Cape Town CBD,Cape Town International,Sipho Ndlovu,44,1167.60,561.36,606.24,51.92,12.76,26.54
+Airport Express,2026-06-26,completed,CZ 901 774,Karoo Coffee Roasters,Cape Town CBD,Cape Town International,Sipho Ndlovu,44,1180.84,667.88,512.96,43.44,15.18,26.84
+West Coast Pharmacy Run,2026-06-23,completed,CZ 901 774,Peninsula Pharmacy Group,Paarden Eiland Depot,Milnerton · Atlantis,Fatima Adams,112,2266.13,1114.88,1151.25,50.80,9.95,20.23
+CBD Retail Loop,2026-06-23,completed,CA 482 319,Atlantic Retail Group,Paarden Eiland Depot,Cape Town CBD,Fatima Adams,46,1035.64,577.42,458.22,44.25,12.55,22.51
+Southern Suburbs Circuit,2026-06-20,completed,CA 482 319,Atlantic Retail Group,Paarden Eiland Depot,Claremont · Constantia,Lutho Jacobs,72,1487.68,749.12,738.56,49.65,10.40,20.66
+City Bowl Parcel Sweep,2026-06-20,completed,CJ 554 120,Karoo Coffee Roasters,Paarden Eiland Depot,Gardens · Woodstock,Lutho Jacobs,34,835.86,417.46,418.40,50.06,12.28,24.58
+Winelands Cellar Run,2026-06-17,completed,CA 127 886,Helderberg Wine Co.,Paarden Eiland Depot,Stellenbosch · Paarl,Riaan van Wyk,146,2918.22,2019.87,898.35,30.78,13.83,19.99
+Fynbos Wholesale Run,2026-06-17,completed,CA 127 886,Fynbos & Co.,Paarden Eiland Depot,Somerset West · Elgin,Riaan van Wyk,124,2540.53,1747.30,793.23,31.22,14.09,20.49
+Atlantic Seaboard Run,2026-06-14,completed,CZ 901 774,Table Bay Fresh Market,Paarden Eiland Depot,Sea Point · Camps Bay,Anele Mbeki,58,1398.44,681.50,716.94,51.27,11.75,24.11
+Cape Flats Distribution,2026-06-14,completed,CA 482 319,Table Bay Fresh Market,Paarden Eiland Depot,Athlone · Mitchells Plain,Anele Mbeki,86,1647.70,868.83,778.87,47.27,10.10,19.16
+CBD Retail Loop,2026-06-11,completed,CJ 554 120,Atlantic Retail Group,Paarden Eiland Depot,Cape Town CBD,Sipho Ndlovu,46,1019.00,537.37,481.63,47.26,11.68,22.15
+Cold Chain Airport Run,2026-06-11,completed,CZ 901 774,Peninsula Pharmacy Group,Paarden Eiland Depot,Airport Industrial,Sipho Ndlovu,54,1605.85,721.91,883.94,55.04,13.37,29.74
+Garden Route Long-haul,2026-06-08,completed,CA 127 886,Helderberg Wine Co.,Paarden Eiland Depot,Mossel Bay,Fatima Adams,384,7618.21,5238.96,2379.25,31.23,13.64,19.84
+Northern Industrial Drops,2026-06-05,cancelled,CA 482 319,Atlantic Retail Group,Paarden Eiland Depot,Epping · Parow,Lutho Jacobs,38,664.47,0.00,,,0.00,17.49
+Durbanville Interior Run,2026-06-02,completed,CA 482 319,Green Point Interiors,Paarden Eiland Depot,Bellville · Durbanville,Riaan van Wyk,66,1481.86,723.17,758.69,51.20,10.96,22.45
+City Bowl Parcel Sweep,2026-06-02,completed,CA 482 319,Karoo Coffee Roasters,Paarden Eiland Depot,Gardens · Woodstock,Riaan van Wyk,34,797.22,485.99,311.23,39.04,14.29,23.45
+Helderberg Deliveries,2026-05-31,completed,CA 127 886,Helderberg Wine Co.,Paarden Eiland Depot,Somerset West · Strand,Riaan van Wyk,98,2040.11,1404.48,635.63,31.16,14.33,20.82
+Atlantic Seaboard Run,2026-05-30,completed,CA 127 886,Table Bay Fresh Market,Paarden Eiland Depot,Sea Point · Camps Bay,Riaan van Wyk,58,1389.55,903.06,486.49,35.01,15.57,23.96
+Airport Express,2026-05-28,completed,CJ 554 120,Karoo Coffee Roasters,Cape Town CBD,Cape Town International,Anele Mbeki,44,1185.44,555.33,630.11,53.15,12.62,26.94
+Airport Express,2026-05-27,completed,CZ 901 774,Karoo Coffee Roasters,Cape Town CBD,Cape Town International,Anele Mbeki,44,1185.92,683.74,502.18,42.35,15.54,26.95
+West Coast Pharmacy Run,2026-05-25,completed,CZ 901 774,Peninsula Pharmacy Group,Paarden Eiland Depot,Milnerton · Atlantis,Sipho Ndlovu,112,2272.11,1079.40,1192.71,52.49,9.64,20.29
+CBD Retail Loop,2026-05-24,completed,CA 482 319,Atlantic Retail Group,Paarden Eiland Depot,Cape Town CBD,Sipho Ndlovu,46,995.22,575.11,420.11,42.21,12.50,21.64
+Southern Suburbs Circuit,2026-05-22,completed,CA 482 319,Atlantic Retail Group,Paarden Eiland Depot,Claremont · Constantia,Fatima Adams,72,1550.03,757.04,792.99,51.16,10.51,21.53
+City Bowl Parcel Sweep,2026-05-21,completed,CJ 554 120,Karoo Coffee Roasters,Paarden Eiland Depot,Gardens · Woodstock,Fatima Adams,34,825.74,412.53,413.21,50.04,12.13,24.29
+Winelands Cellar Run,2026-05-19,completed,CA 127 886,Helderberg Wine Co.,Paarden Eiland Depot,Stellenbosch · Paarl,Lutho Jacobs,146,2909.68,2092.75,816.93,28.08,14.33,19.93
+Fynbos Wholesale Run,2026-05-18,completed,CA 127 886,Fynbos & Co.,Paarden Eiland Depot,Somerset West · Elgin,Lutho Jacobs,124,2591.91,1766.70,825.21,31.84,14.25,20.90
+Atlantic Seaboard Run,2026-05-16,completed,CZ 901 774,Table Bay Fresh Market,Paarden Eiland Depot,Sea Point · Camps Bay,Riaan van Wyk,58,1389.26,676.83,712.43,51.28,11.67,23.95
+Cape Flats Distribution,2026-05-15,completed,CA 482 319,Table Bay Fresh Market,Paarden Eiland Depot,Athlone · Mitchells Plain,Riaan van Wyk,86,1674.88,891.31,783.57,46.78,10.36,19.48
+CBD Retail Loop,2026-05-13,completed,CJ 554 120,Atlantic Retail Group,Paarden Eiland Depot,Cape Town CBD,Anele Mbeki,46,1022.40,531.15,491.25,48.05,11.55,22.23
+Cold Chain Airport Run,2026-05-12,completed,CZ 901 774,Peninsula Pharmacy Group,Paarden Eiland Depot,Airport Industrial,Anele Mbeki,54,1539.46,724.84,814.62,52.92,13.42,28.51
+Garden Route Long-haul,2026-05-09,completed,CA 127 886,Helderberg Wine Co.,Paarden Eiland Depot,Mossel Bay,Sipho Ndlovu,384,7711.44,5329.52,2381.92,30.89,13.88,20.08
+Northern Industrial Drops,2026-05-06,completed,CA 482 319,Atlantic Retail Group,Paarden Eiland Depot,Epping · Parow,Fatima Adams,38,651.13,732.94,-81.81,-12.56,19.29,17.14
+Durbanville Interior Run,2026-05-03,completed,CA 482 319,Green Point Interiors,Paarden Eiland Depot,Bellville · Durbanville,Lutho Jacobs,66,1431.16,712.42,718.74,50.22,10.79,21.68
+City Bowl Parcel Sweep,2026-05-02,completed,CA 482 319,Karoo Coffee Roasters,Paarden Eiland Depot,Gardens · Woodstock,Lutho Jacobs,34,817.66,482.54,335.12,40.99,14.19,24.05
+Airport Express,2026-04-30,completed,CJ 554 120,Karoo Coffee Roasters,Cape Town CBD,Cape Town International,Riaan van Wyk,44,1218.05,550.03,668.02,54.84,12.50,27.68
+Airport Express,2026-04-30,completed,CZ 901 774,Karoo Coffee Roasters,Cape Town CBD,Cape Town International,Riaan van Wyk,44,1188.50,669.11,519.39,43.70,15.21,27.01
+West Coast Pharmacy Run,2026-04-27,completed,CZ 901 774,Peninsula Pharmacy Group,Paarden Eiland Depot,Milnerton · Atlantis,Anele Mbeki,112,2320.38,1064.70,1255.68,54.12,9.51,20.72
+CBD Retail Loop,2026-04-27,completed,CA 482 319,Atlantic Retail Group,Paarden Eiland Depot,Cape Town CBD,Anele Mbeki,46,993.76,573.04,420.72,42.34,12.46,21.60
+Southern Suburbs Circuit,2026-04-24,completed,CA 482 319,Atlantic Retail Group,Paarden Eiland Depot,Claremont · Constantia,Sipho Ndlovu,72,1493.22,773.68,719.54,48.19,10.75,20.74
+City Bowl Parcel Sweep,2026-04-24,completed,CJ 554 120,Karoo Coffee Roasters,Paarden Eiland Depot,Gardens · Woodstock,Sipho Ndlovu,34,838.15,422.66,415.49,49.57,12.43,24.65
+Winelands Cellar Run,2026-04-21,completed,CA 127 886,Helderberg Wine Co.,Paarden Eiland Depot,Stellenbosch · Paarl,Fatima Adams,146,2970.04,2043.01,927.03,31.21,13.99,20.34
+Fynbos Wholesale Run,2026-04-21,completed,CA 127 886,Fynbos & Co.,Paarden Eiland Depot,Somerset West · Elgin,Fatima Adams,124,2508.78,1717.94,790.84,31.52,13.85,20.23
+Atlantic Seaboard Run,2026-04-18,completed,CZ 901 774,Table Bay Fresh Market,Paarden Eiland Depot,Sea Point · Camps Bay,Lutho Jacobs,58,1409.03,674.85,734.18,52.11,11.64,24.29
+Cape Flats Distribution,2026-04-18,completed,CA 482 319,Table Bay Fresh Market,Paarden Eiland Depot,Athlone · Mitchells Plain,Lutho Jacobs,86,1594.66,863.83,730.83,45.83,10.04,18.54
+CBD Retail Loop,2026-04-15,completed,CJ 554 120,Atlantic Retail Group,Paarden Eiland Depot,Cape Town CBD,Riaan van Wyk,46,1036.55,538.10,498.45,48.09,11.70,22.53
+Cold Chain Airport Run,2026-04-15,completed,CZ 901 774,Peninsula Pharmacy Group,Paarden Eiland Depot,Airport Industrial,Riaan van Wyk,54,1599.30,731.17,868.13,54.28,13.54,29.62
+Garden Route Long-haul,2026-04-12,completed,CA 127 886,Helderberg Wine Co.,Paarden Eiland Depot,Mossel Bay,Anele Mbeki,384,7654.77,5131.41,2523.36,32.96,13.36,19.93
+Northern Industrial Drops,2026-04-09,completed,CA 482 319,Atlantic Retail Group,Paarden Eiland Depot,Epping · Parow,Sipho Ndlovu,38,664.11,716.45,-52.34,-7.88,18.85,17.48
+Durbanville Interior Run,2026-04-06,completed,CA 482 319,Green Point Interiors,Paarden Eiland Depot,Bellville · Durbanville,Fatima Adams,66,1472.34,737.32,735.02,49.92,11.17,22.31
+City Bowl Parcel Sweep,2026-04-06,completed,CA 482 319,Karoo Coffee Roasters,Paarden Eiland Depot,Gardens · Woodstock,Fatima Adams,34,792.64,474.10,318.54,40.19,13.94,23.31
+Helderberg Deliveries,2026-04-03,completed,CA 127 886,Helderberg Wine Co.,Paarden Eiland Depot,Somerset West · Strand,Lutho Jacobs,98,2010.15,1451.33,558.82,27.80,14.81,20.51
+Atlantic Seaboard Run,2026-04-03,completed,CA 127 886,Table Bay Fresh Market,Paarden Eiland Depot,Sea Point · Camps Bay,Lutho Jacobs,58,1394.10,931.78,462.32,33.16,16.07,24.04
+Airport Express,2026-03-31,completed,CZ 901 774,Karoo Coffee Roasters,Cape Town CBD,Cape Town International,Lutho Jacobs,44,1209.35,672.90,536.45,44.36,15.29,27.49
+West Coast Pharmacy Run,2026-03-29,completed,CZ 901 774,Peninsula Pharmacy Group,Paarden Eiland Depot,Milnerton · Atlantis,Riaan van Wyk,112,2270.52,1078.15,1192.37,52.52,9.63,20.27
+CBD Retail Loop,2026-03-28,completed,CA 482 319,Atlantic Retail Group,Paarden Eiland Depot,Cape Town CBD,Riaan van Wyk,46,987.99,567.05,420.94,42.61,12.33,21.48
+Southern Suburbs Circuit,2026-03-26,completed,CA 482 319,Atlantic Retail Group,Paarden Eiland Depot,Claremont · Constantia,Anele Mbeki,72,1517.24,771.06,746.18,49.18,10.71,21.07
+City Bowl Parcel Sweep,2026-03-25,completed,CJ 554 120,Karoo Coffee Roasters,Paarden Eiland Depot,Gardens · Woodstock,Anele Mbeki,34,810.44,431.45,378.99,46.76,12.69,23.84
+Winelands Cellar Run,2026-03-23,completed,CA 127 886,Helderberg Wine Co.,Paarden Eiland Depot,Stellenbosch · Paarl,Sipho Ndlovu,146,3005.38,2002.08,1003.30,33.38,13.71,20.58
+Fynbos Wholesale Run,2026-03-22,completed,CA 127 886,Fynbos & Co.,Paarden Eiland Depot,Somerset West · Elgin,Sipho Ndlovu,124,2519.46,1789.81,729.65,28.96,14.43,20.32
+Atlantic Seaboard Run,2026-03-20,completed,CZ 901 774,Table Bay Fresh Market,Paarden Eiland Depot,Sea Point · Camps Bay,Fatima Adams,58,1386.38,677.69,708.69,51.12,11.68,23.90
+Cape Flats Distribution,2026-03-19,completed,CA 482 319,Table Bay Fresh Market,Paarden Eiland Depot,Athlone · Mitchells Plain,Fatima Adams,86,1669.88,874.12,795.76,47.65,10.16,19.42
+CBD Retail Loop,2026-03-17,completed,CJ 554 120,Atlantic Retail Group,Paarden Eiland Depot,Cape Town CBD,Lutho Jacobs,46,983.02,544.33,438.69,44.63,11.83,21.37
+Cold Chain Airport Run,2026-03-16,completed,CZ 901 774,Peninsula Pharmacy Group,Paarden Eiland Depot,Airport Industrial,Lutho Jacobs,54,1575.77,710.73,865.04,54.90,13.16,29.18
+Garden Route Long-haul,2026-03-13,completed,CA 127 886,Helderberg Wine Co.,Paarden Eiland Depot,Mossel Bay,Riaan van Wyk,384,7889.75,5209.41,2680.34,33.97,13.57,20.55
+Northern Industrial Drops,2026-03-10,completed,CA 482 319,Atlantic Retail Group,Paarden Eiland Depot,Epping · Parow,Anele Mbeki,38,646.21,723.70,-77.49,-11.99,19.04,17.01
+Durbanville Interior Run,2026-03-07,completed,CA 482 319,Green Point Interiors,Paarden Eiland Depot,Bellville · Durbanville,Sipho Ndlovu,66,1440.10,735.22,704.88,48.95,11.14,21.82
+City Bowl Parcel Sweep,2026-03-06,completed,CA 482 319,Karoo Coffee Roasters,Paarden Eiland Depot,Gardens · Woodstock,Sipho Ndlovu,34,822.07,479.20,342.87,41.71,14.09,24.18
+Helderberg Deliveries,2026-03-04,completed,CA 127 886,Helderberg Wine Co.,Paarden Eiland Depot,Somerset West · Strand,Fatima Adams,98,2062.66,1400.14,662.52,32.12,14.29,21.05
+Atlantic Seaboard Run,2026-03-03,completed,CA 127 886,Table Bay Fresh Market,Paarden Eiland Depot,Sea Point · Camps Bay,Fatima Adams,58,1373.10,930.95,442.15,32.20,16.05,23.67
+Airport Express,2026-03-01,completed,CJ 554 120,Karoo Coffee Roasters,Cape Town CBD,Cape Town International,Lutho Jacobs,44,1184.04,546.94,637.10,53.81,12.43,26.91
+Southern Suburbs Circuit,2026-02-28,completed,CA 482 319,Atlantic Retail Group,Paarden Eiland Depot,Claremont · Constantia,Riaan van Wyk,72,1484.04,786.27,697.77,47.02,10.92,20.61
+Fynbos Wholesale Run,2026-02-27,completed,CA 127 886,Fynbos & Co.,Paarden Eiland Depot,Somerset West · Elgin,Anele Mbeki,124,2588.41,1768.03,820.38,31.69,14.26,20.87
+Winelands Cellar Run,2026-02-25,completed,CA 127 886,Helderberg Wine Co.,Paarden Eiland Depot,Stellenbosch · Paarl,Anele Mbeki,146,2966.43,2072.05,894.38,30.15,14.19,20.32
+Cape Flats Distribution,2026-02-24,completed,CA 482 319,Table Bay Fresh Market,Paarden Eiland Depot,Athlone · Mitchells Plain,Sipho Ndlovu,86,1644.33,880.42,763.91,46.46,10.24,19.12
+Atlantic Seaboard Run,2026-02-22,completed,CZ 901 774,Table Bay Fresh Market,Paarden Eiland Depot,Sea Point · Camps Bay,Sipho Ndlovu,58,1368.05,675.54,692.51,50.62,11.65,23.59
+Cold Chain Airport Run,2026-02-21,completed,CZ 901 774,Peninsula Pharmacy Group,Paarden Eiland Depot,Airport Industrial,Fatima Adams,54,1549.32,728.06,821.26,53.01,13.48,28.69
+CBD Retail Loop,2026-02-19,completed,CJ 554 120,Atlantic Retail Group,Paarden Eiland Depot,Cape Town CBD,Fatima Adams,46,998.33,553.67,444.66,44.54,12.04,21.70
+Garden Route Long-haul,2026-02-18,completed,CA 127 886,Helderberg Wine Co.,Paarden Eiland Depot,Mossel Bay,Lutho Jacobs,384,7871.28,5119.57,2751.71,34.96,13.33,20.50
+Northern Industrial Drops,2026-02-15,completed,CA 482 319,Atlantic Retail Group,Paarden Eiland Depot,Epping · Parow,Riaan van Wyk,38,664.85,719.00,-54.15,-8.14,18.92,17.50
+City Bowl Parcel Sweep,2026-02-14,completed,CA 482 319,Karoo Coffee Roasters,Paarden Eiland Depot,Gardens · Woodstock,Anele Mbeki,34,829.62,481.56,348.06,41.95,14.16,24.40
+Durbanville Interior Run,2026-02-12,completed,CA 482 319,Green Point Interiors,Paarden Eiland Depot,Bellville · Durbanville,Anele Mbeki,66,1448.40,733.92,714.48,49.33,11.12,21.95
+Atlantic Seaboard Run,2026-02-11,completed,CA 127 886,Table Bay Fresh Market,Paarden Eiland Depot,Sea Point · Camps Bay,Sipho Ndlovu,58,1427.49,943.33,484.16,33.92,16.26,24.61
+Helderberg Deliveries,2026-02-09,completed,CA 127 886,Helderberg Wine Co.,Paarden Eiland Depot,Somerset West · Strand,Sipho Ndlovu,98,2051.40,1434.74,616.66,30.06,14.64,20.93
+Airport Express,2026-02-08,completed,CZ 901 774,Karoo Coffee Roasters,Cape Town CBD,Cape Town International,Fatima Adams,44,1185.03,670.74,514.29,43.40,15.24,26.93
+Airport Express,2026-02-06,completed,CJ 554 120,Karoo Coffee Roasters,Cape Town CBD,Cape Town International,Fatima Adams,44,1182.49,539.26,643.23,54.40,12.26,26.87
+CBD Retail Loop,2026-02-05,completed,CA 482 319,Atlantic Retail Group,Paarden Eiland Depot,Cape Town CBD,Lutho Jacobs,46,983.05,590.34,392.71,39.95,12.83,21.37
+West Coast Pharmacy Run,2026-02-03,completed,CZ 901 774,Peninsula Pharmacy Group,Paarden Eiland Depot,Milnerton · Atlantis,Lutho Jacobs,112,2290.89,1086.83,1204.06,52.56,9.70,20.45
+City Bowl Parcel Sweep,2026-02-02,completed,CJ 554 120,Karoo Coffee Roasters,Paarden Eiland Depot,Gardens · Woodstock,Riaan van Wyk,34,819.10,416.72,402.38,49.12,12.26,24.09
+Southern Suburbs Circuit,2026-01-30,completed,CA 482 319,Atlantic Retail Group,Paarden Eiland Depot,Claremont · Constantia,Lutho Jacobs,72,1535.64,761.67,773.97,50.40,10.58,21.33
+City Bowl Parcel Sweep,2026-01-29,completed,CJ 554 120,Karoo Coffee Roasters,Paarden Eiland Depot,Gardens · Woodstock,Lutho Jacobs,34,805.81,433.08,372.73,46.26,12.74,23.70
+Winelands Cellar Run,2026-01-27,completed,CA 127 886,Helderberg Wine Co.,Paarden Eiland Depot,Stellenbosch · Paarl,Riaan van Wyk,146,2844.66,2037.06,807.60,28.39,13.95,19.48
+Fynbos Wholesale Run,2026-01-26,completed,CA 127 886,Fynbos & Co.,Paarden Eiland Depot,Somerset West · Elgin,Riaan van Wyk,124,2495.11,1782.27,712.84,28.57,14.37,20.12
+Atlantic Seaboard Run,2026-01-24,completed,CZ 901 774,Table Bay Fresh Market,Paarden Eiland Depot,Sea Point · Camps Bay,Anele Mbeki,58,1366.10,668.33,697.77,51.08,11.52,23.55
+Cape Flats Distribution,2026-01-23,completed,CA 482 319,Table Bay Fresh Market,Paarden Eiland Depot,Athlone · Mitchells Plain,Anele Mbeki,86,1663.51,873.08,790.43,47.52,10.15,19.34
+CBD Retail Loop,2026-01-21,completed,CJ 554 120,Atlantic Retail Group,Paarden Eiland Depot,Cape Town CBD,Sipho Ndlovu,46,1038.92,543.94,494.98,47.64,11.82,22.59
+Cold Chain Airport Run,2026-01-20,completed,CZ 901 774,Peninsula Pharmacy Group,Paarden Eiland Depot,Airport Industrial,Sipho Ndlovu,54,1542.43,731.27,811.16,52.59,13.54,28.56
+Garden Route Long-haul,2026-01-17,completed,CA 127 886,Helderberg Wine Co.,Paarden Eiland Depot,Mossel Bay,Fatima Adams,384,7701.05,5216.01,2485.04,32.27,13.58,20.05
+Northern Industrial Drops,2026-01-14,cancelled,CA 482 319,Atlantic Retail Group,Paarden Eiland Depot,Epping · Parow,Lutho Jacobs,38,634.86,0.00,,,0.00,16.71
+Durbanville Interior Run,2026-01-11,completed,CA 482 319,Green Point Interiors,Paarden Eiland Depot,Bellville · Durbanville,Riaan van Wyk,66,1447.75,744.44,703.31,48.58,11.28,21.94
+City Bowl Parcel Sweep,2026-01-10,completed,CA 482 319,Karoo Coffee Roasters,Paarden Eiland Depot,Gardens · Woodstock,Riaan van Wyk,34,825.56,468.10,357.46,43.30,13.77,24.28
+Helderberg Deliveries,2026-01-08,completed,CA 127 886,Helderberg Wine Co.,Paarden Eiland Depot,Somerset West · Strand,Anele Mbeki,98,2027.18,1449.64,577.54,28.49,14.79,20.69
+Atlantic Seaboard Run,2026-01-07,completed,CA 127 886,Table Bay Fresh Market,Paarden Eiland Depot,Sea Point · Camps Bay,Anele Mbeki,58,1378.18,946.25,431.93,31.34,16.31,23.76
+Airport Express,2026-01-05,completed,CJ 554 120,Karoo Coffee Roasters,Cape Town CBD,Cape Town International,Sipho Ndlovu,44,1163.38,549.01,614.37,52.81,12.48,26.44
+Airport Express,2026-01-04,completed,CZ 901 774,Karoo Coffee Roasters,Cape Town CBD,Cape Town International,Sipho Ndlovu,44,1180.69,662.56,518.13,43.88,15.06,26.83
+West Coast Pharmacy Run,2026-01-02,completed,CZ 901 774,Peninsula Pharmacy Group,Paarden Eiland Depot,Milnerton · Atlantis,Fatima Adams,112,2264.96,1105.47,1159.49,51.19,9.87,20.22
+CBD Retail Loop,2026-01-01,completed,CA 482 319,Atlantic Retail Group,Paarden Eiland Depot,Cape Town CBD,Fatima Adams,46,992.94,580.48,412.46,41.54,12.62,21.59
+City Bowl Parcel Sweep,2025-12-31,completed,CJ 554 120,Karoo Coffee Roasters,Paarden Eiland Depot,Gardens · Woodstock,Fatima Adams,34,829.82,416.68,413.14,49.79,12.26,24.41
+Winelands Cellar Run,2025-12-29,completed,CA 127 886,Helderberg Wine Co.,Paarden Eiland Depot,Stellenbosch · Paarl,Lutho Jacobs,146,2967.41,2035.16,932.25,31.42,13.94,20.32
+Fynbos Wholesale Run,2025-12-28,completed,CA 127 886,Fynbos & Co.,Paarden Eiland Depot,Somerset West · Elgin,Lutho Jacobs,124,2617.93,1745.53,872.40,33.32,14.08,21.11
+Atlantic Seaboard Run,2025-12-26,completed,CZ 901 774,Table Bay Fresh Market,Paarden Eiland Depot,Sea Point · Camps Bay,Riaan van Wyk,58,1409.76,679.61,730.15,51.79,11.72,24.31
+Cape Flats Distribution,2025-12-25,completed,CA 482 319,Table Bay Fresh Market,Paarden Eiland Depot,Athlone · Mitchells Plain,Riaan van Wyk,86,1677.84,869.37,808.47,48.19,10.11,19.51
+CBD Retail Loop,2025-12-23,completed,CJ 554 120,Atlantic Retail Group,Paarden Eiland Depot,Cape Town CBD,Anele Mbeki,46,1014.23,541.46,472.77,46.61,11.77,22.05
+Cold Chain Airport Run,2025-12-22,completed,CZ 901 774,Peninsula Pharmacy Group,Paarden Eiland Depot,Airport Industrial,Anele Mbeki,54,1596.25,741.85,854.40,53.53,13.74,29.56
+Garden Route Long-haul,2025-12-19,completed,CA 127 886,Helderberg Wine Co.,Paarden Eiland Depot,Mossel Bay,Sipho Ndlovu,384,7502.31,5271.01,2231.30,29.74,13.73,19.54
+Northern Industrial Drops,2025-12-16,completed,CA 482 319,Atlantic Retail Group,Paarden Eiland Depot,Epping · Parow,Fatima Adams,38,650.39,727.63,-77.24,-11.88,19.15,17.12
+Durbanville Interior Run,2025-12-13,completed,CA 482 319,Green Point Interiors,Paarden Eiland Depot,Bellville · Durbanville,Lutho Jacobs,66,1482.20,718.93,763.27,51.50,10.89,22.46
+City Bowl Parcel Sweep,2025-12-12,completed,CA 482 319,Karoo Coffee Roasters,Paarden Eiland Depot,Gardens · Woodstock,Lutho Jacobs,34,797.97,475.57,322.40,40.40,13.99,23.47
+Helderberg Deliveries,2025-12-10,completed,CA 127 886,Helderberg Wine Co.,Paarden Eiland Depot,Somerset West · Strand,Riaan van Wyk,98,2093.31,1409.11,684.20,32.69,14.38,21.36
+Atlantic Seaboard Run,2025-12-09,completed,CA 127 886,Table Bay Fresh Market,Paarden Eiland Depot,Sea Point · Camps Bay,Riaan van Wyk,58,1397.34,932.99,464.35,33.23,16.09,24.09
+Airport Express,2025-12-07,completed,CJ 554 120,Karoo Coffee Roasters,Cape Town CBD,Cape Town International,Anele Mbeki,44,1166.09,547.11,618.98,53.08,12.43,26.50
+Airport Express,2025-12-06,completed,CZ 901 774,Karoo Coffee Roasters,Cape Town CBD,Cape Town International,Anele Mbeki,44,1202.73,664.17,538.56,44.78,15.09,27.33
+West Coast Pharmacy Run,2025-12-04,completed,CZ 901 774,Peninsula Pharmacy Group,Paarden Eiland Depot,Milnerton · Atlantis,Sipho Ndlovu,112,2334.13,1069.20,1264.93,54.19,9.55,20.84
+CBD Retail Loop,2025-12-03,completed,CA 482 319,Atlantic Retail Group,Paarden Eiland Depot,Cape Town CBD,Sipho Ndlovu,46,1034.47,570.60,463.87,44.84,12.40,22.49
+Southern Suburbs Circuit,2025-12-01,completed,CA 482 319,Atlantic Retail Group,Paarden Eiland Depot,Claremont · Constantia,Fatima Adams,72,1552.03,774.74,777.29,50.08,10.76,21.56
